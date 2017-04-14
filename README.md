@@ -64,6 +64,9 @@
 3. 基于zookeeper 的 临时有序锁机制（EPHEMERAL_SEQUENTIAL）
 
 
+![avatar](https://raw.githubusercontent.com/weichendahai/zkexample/master/doc/distribute_lock.png)
+
+
 ## 常用的四种方案:
 
 常用技术方案:
