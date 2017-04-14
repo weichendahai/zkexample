@@ -55,6 +55,9 @@
 
 注意: 需要先搭建zookeeper 集群
 
+
+![avatar](https://raw.githubusercontent.com/weichendahai/zkexample/master/doc/rmi.jpg)
+
 ```
 1.1 启动zookeeper 集群
 1.2 运行 RMI Server
@@ -83,3 +86,12 @@
 2. 使用redis的watch、multi、exec命令，用于分布式锁。
 3. 使用zookeeper，用于分布式锁。
 ```
+
+## 参考
+
+- 使用 RMI + ZooKeeper 实现远程调用框架
+https://my.oschina.net/huangyong/blog/345164
+- 分布式锁 常用方案
+http://www.cnblogs.com/PurpleDream/p/5559352.html
+https://my.oschina.net/huangyong/blog/345164放哪
+https://my.oschina.net/huangyong/blog/345164
